@@ -3,7 +3,7 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-18.04'
-  name: 'MyLinuxAgent'
+  name: 'CnBateBlogWeb-Agent'
   demands:
     - npm
 
