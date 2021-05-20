@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'MyAgentPool'
+  vmImage: 'CnBateBlogWeb-Agent'
   demands:
     - npm
 
